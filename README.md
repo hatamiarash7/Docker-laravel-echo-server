@@ -5,7 +5,7 @@ It's a docker image for the [Laravel Echo Server](https://github.com/tlaverdure/
 ## Install
 
 ```shell
-docker pull docker.pkg.github.com/hatamiarash7/hatamiarash7/laravel-echo-server:1
+docker pull docker.pkg.github.com/hatamiarash7/docker-laravel-echo-server/laravel-echo-server:1
 ```
 
 ## Configuration
