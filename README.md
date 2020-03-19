@@ -2,6 +2,12 @@
 
 It's a docker image for the [Laravel Echo Server](https://github.com/tlaverdure/laravel-echo-server)
 
+## Install
+
+```shell
+docker pull docker.pkg.github.com/hatamiarash7/hatamiarash7/laravel-echo-server:1
+```
+
 ## Configuration
 
 The container is configured to want to use Redis by default. Most configuration can be changed by setting the appropriate environment variables.  
