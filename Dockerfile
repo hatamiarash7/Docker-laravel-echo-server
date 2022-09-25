@@ -1,4 +1,4 @@
-FROM node:11.15.0
+FROM node:18.9.0
 
 COPY files /
 
